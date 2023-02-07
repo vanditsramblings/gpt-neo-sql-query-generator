@@ -1,1 +1,1 @@
-A simple tool to generate elasticsearch queries using natural lagnuage prompts.
+GPT Neo based sql query generation
